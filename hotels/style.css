@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+html{
+font-size: 300.5;
+}
+h1{
+    margin-left:0%;
+    font-size: 40px;
+    color: white;
+    background-image: url(bulbs_flowers_neon_130264_4321x2881.jpg);
+}
+
+.box1,.box2,.box3,.box4{
+    max-width: 50rem;
+    height: 30rem;
+    color:red;
+    background-image: url(clouds-fog-forest-mist-6718.jpg);
+    box-align:centre ;
+    border: 4px solid rgb(25, 204, 195);
+    margin: 10rem;
+    margin-left: 25%;
+    position: relative;
+
+}
+.text{
+    margin: auto;
+    
+    background-image: url(bulbs_flowers_neon_130264_4321x2881.jpg);
+}
+
+
+.box1{
+    background-image: url(1.jpg);
+}
+
+.box2{
+    background-image: url(2.jpg);
+}
+
+
+.box3{
+    background-image: url(3.jpg);
+}
+
+
+.box4{
+    background-image: url(4.jpg);
+}
+
+h2{
+    text-align: center;
+}
